@@ -17,7 +17,7 @@
 - [Workflow Manager - Airflow, Dagster]()
 - [Data Module Build Tool(dbt)](https://github.com/JoshuaChen40/data_archt_dbt.git)
 - [Streaming Event Platform](https://github.com/Wiwi-Creator/FinDataLoader)
-- [ML mlflow]()
+- [ML mlflow](https://github.com/JoshuaChen40/data_archt_mlflow.git)
 
 依序建置以上模組來建立資料架構，不限定以上工具並依現實發展做評估更換，並保持各功能模組可替換工具性。
 
