@@ -30,10 +30,10 @@
 -------------------------------
 
 ## 專案狀態
-| Application | Status | Release Time | Expected Release Time | Developer | Supporter |
-|----------|----------|----------|----------|----------|----------|
-| Airflow/Dagster | Continue | - | 2024-09-10 | Wiwi | Josh |
-| dbt | Continue | - | 2024-09-10 | Josh | Wiwi |
-| Streaming Event Platform | Continue | - | 2024-09-10 | Wiwi | Josh |
-| MLflow | Continue | - | 2024-09-10 | Josh | Andy |
+| Application | Status | Release Time | Expected Release Time | Developer | Supporter | repo |
+|----------|----------|----------|----------|----------|----------|----------|
+| Airflow/Dagster | Continue | - | 2024-09-10 | Wiwi | Josh | []() |
+| dbt | Continue | - | 2024-09-10 | Josh | Wiwi | [dbt](https://github.com/JoshuaChen40/data_archt_dbt.git) |
+| Streaming Event Platform | Continue | - | 2024-09-10 | Wiwi | Josh | []() |
+| MLflow | Continue | - | 2024-09-10 | Josh | Andy | []() |
 
